@@ -1,0 +1,17 @@
+body {
+    background-image: url(backgroundimage.jpeg);
+    background-size: cover;
+}
+
+.info {
+    align-content: right;
+    font-size: large;
+    align-items: right;
+    background-image: linear-gradient(to right, rgba(0,0,0,0) 75%, antiquewhite 20%); 
+}
+.important {
+    align-content: right;
+    font-size: large;
+    align-items: right;
+    background-image: linear-gradient(to right, rgba(0,0,0,0) 80%, #FF7F7F 20%); 
+}
